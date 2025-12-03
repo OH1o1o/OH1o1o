@@ -11,10 +11,10 @@
 
   <br>
 
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/OH1o1o">
     <img src="https://img.shields.io/badge/Status-Undergraduate-9cf?style=flat-square&logo=c" alt="Status"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/OH1o1o">
     <img src="https://img.shields.io/badge/Focus-MLOps_%26_OSS-orange?style=flat-square&logo=python" alt="Focus"/>
   </a>
 
@@ -30,7 +30,7 @@
 - 🔭 **Current Focus:** MLOps, LLM Engineering, OpenTelemetry
 - 🌱 **Learning:** How to build scalable ML pipelines with `MLflow` & `Docker`
 - 🎯 **Goal:** Becoming an active Open Source Contributor & MLOps Engineer
-- ⚡ **Recent Achievement:** Contributed to **MLflow** by fixing an OpenTelemetry tracing crash issue! (PR #18753)
+- ⚡ **Recent Achievement:**
 
 <br>
 
